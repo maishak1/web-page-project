@@ -19,6 +19,3 @@ This is an individual University Web Development Project. It is an e-commerce we
 
 **notes for myself**
 - add screenshots of the web pages
-- add bgimg.jpg
-- add homteq_logo.png
-- add images of the products
